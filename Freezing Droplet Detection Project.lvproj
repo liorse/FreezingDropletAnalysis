@@ -195,7 +195,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/Z/Dropbox/Lior Segev/Naama Reicher/Software/Droplet Detection/Builds</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{AC044005-1F3D-4484-8855-23824F43732F}</Property>
-				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.build" Type="Int">5</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Freezing Droplets Detection.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/Z/Dropbox/Lior Segev/Naama Reicher/Software/Droplet Detection/Builds/Freezing Droplets Detection.exe</Property>
@@ -206,7 +206,8 @@
 				<Property Name="Destination[1].path" Type="Path">/Z/Dropbox/Lior Segev/Naama Reicher/Software/Droplet Detection/Builds/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{E4C5401A-83C7-4BB6-BF04-F6283562EFC3}</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Icons/ApplicationFreezeIcon.ico</Property>
+				<Property Name="Source[0].itemID" Type="Str">{2D45245F-2AEB-400B-9BC1-B1B068358E64}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Main/main.vi</Property>

@@ -1,0 +1,6 @@
+[000037][000396.859sec][2014-02-10T07:28:55.016Z][DeployActivation][Unregistered]
+[000038][000397.753sec][2014-02-10T07:28:55.910Z][DeploymentAborted][In order to perform deployments, Deploy must be registered.]
+[000042][000397.764sec][2014-02-10T07:28:55.921Z][LoggerShutdown][WirebirdLabs-EventLogger.lvlib:WirebirdLabs-EventLogger.lvclass:WirebirdLabs-Log-Process.vi:6550007>>WirebirdLabs-EventLogger.lvlib:WirebirdLabs-EventLogger.lvclass:WirebirdLabs-Log-Process.vi.ACBRProxyCaller.31B0006A]
+[000039][000397.763sec][2014-02-10T07:28:55.920Z][ErrorSummary][DeploymentAborted][Error 42: "DeploymentAborted"]
+[000040][000397.763sec][2014-02-10T07:28:55.920Z][DeploymentTime][0.02min]
+[000041][000397.763sec][2014-02-10T07:28:55.920Z][Result][Deployment Canceled]
